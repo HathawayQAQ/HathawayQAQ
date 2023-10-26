@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm looking for Summer 2024 Internship(Canada&China), plz feel free to contact me!
 
 <!--
 **HathawayQAQ/HathawayQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
