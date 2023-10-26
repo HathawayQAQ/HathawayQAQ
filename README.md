@@ -3,11 +3,14 @@
 <!--
 **HathawayQAQ/HathawayQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+### My Education
 - 🏫 Undergrad at McGill (CompSci + Statistics, '26)
+### My Project & Work Experience
 - 🎓 Director of Academic Affairs at McGill IEEE.
 - 📑 Research Assistant at MIT on ML image recognition.
 - 👭 McWiCS Community (Women In Computer Science)
+### Contact Me
 - 📫 How to reach me: haohangyi516@gmail.com
-- 😄 Pronouns: she/her
+- [LinkedIn](https://www.linkedin.com/in/hangyihao/)
+
 
