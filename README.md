@@ -12,7 +12,7 @@
 ### 🌱 I’m currently learning
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
--  [Email](haohangyi516@gmail.com)
+-  Email:haohangyi516@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hangyihao/)
 
 
