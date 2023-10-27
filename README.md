@@ -14,6 +14,6 @@
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
 -  Email:haohangyi516@gmail.com
-- [Portfolio](http://hangyihao.me:30460/)|[LinkedIn](https://www.linkedin.com/in/hangyihao/)
+- [Portfolio](http://hangyihao.me:30460/) | [LinkedIn](https://www.linkedin.com/in/hangyihao/)
 
 
