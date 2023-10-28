@@ -12,8 +12,8 @@
 - McWiCS Community (Women In Computer Science)
 ### 📚 I worked on
 - [Exploring Biases in Academic Reviews through Data Analysis and Visualization](https://github.com/HathawayQAQ/Exploring-Biases-in-Academic-Reviews-through-Data-Analysis-and-Visualization)
-- [Quad-Quest Color Conquest] (https://github.com/HathawayQAQ/Quad-Quest-Color-Conquest)
-- [Caterpillar Game] (https://github.com/HathawayQAQ/Caterpillar-Game)
+- [Quad-Quest Color Conquest](https://github.com/HathawayQAQ/Quad-Quest-Color-Conquest)
+- [Caterpillar Game](https://github.com/HathawayQAQ/Caterpillar-Game)
 ### 🌱 I’m currently learning
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
