@@ -11,9 +11,9 @@
 - Research Assistant at MIT on ML image recognition, it can distinguish cats and dogs!
 - McWiCS Community (Women In Computer Science)
 ### 📚 I worked on
-- [Exploring Biases in Academic Reviews through Data Analysis and Visualization](https://github.com/HathawayQAQ/Exploring-Biases-in-Academic-Reviews-through-Data-Analysis-and-Visualization)
-- [Quad-Quest Color Conquest](https://github.com/HathawayQAQ/Quad-Quest-Color-Conquest)
-- [Caterpillar Game](https://github.com/HathawayQAQ/Caterpillar-Game)
+- [Exploring Biases in Academic Reviews through Data Analysis and Visualization](https://github.com/HathawayQAQ/Exploring-Biases-in-Academic-Reviews-through-Data-Analysis-and-Visualization), I did this based on RateMyProfessor and my COMP250!
+- [Quad-Quest Color Conquest](https://github.com/HathawayQAQ/Quad-Quest-Color-Conquest), come and try the best score you can get! 
+- [Caterpillar Game](https://github.com/HathawayQAQ/Caterpillar-Game), ohhh those caterpillars are so cute!
 ### 🌱 I’m currently learning
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
