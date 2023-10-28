@@ -6,10 +6,14 @@
 -->
 ### 🏫 My Education
 - Undergrad at McGill (CompSci + Statistics, '26)
-### 🎓 My Project & Work Experience
+### 🎓 My Positions & Experience
 - Director of Academic Affairs at [McGill IEEE](https://ieeemcgill.com/)
 - Research Assistant at MIT on ML image recognition, it can distinguish cats and dogs!
 - McWiCS Community (Women In Computer Science)
+### 📚 I worked on
+- [Exploring Biases in Academic Reviews through Data Analysis and Visualization](https://github.com/HathawayQAQ/Exploring-Biases-in-Academic-Reviews-through-Data-Analysis-and-Visualization)
+- [Quad-Quest Color Conquest] (https://github.com/HathawayQAQ/Quad-Quest-Color-Conquest)
+- [Caterpillar Game] (https://github.com/HathawayQAQ/Caterpillar-Game)
 ### 🌱 I’m currently learning
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
