@@ -8,7 +8,7 @@
 - Undergrad at McGill (CompSci + Statistics, '26)
 ### 🎓 My Positions & Experience
 - Director of Academic Affairs at [McGill IEEE](https://ieeemcgill.com/)
-- Research Assistant at MIT on ML image recognition, it can distinguish cats and dogs!
+- Research Assistant at MIT on ML image recognition which can distinguish cats and dogs!
 - McWiCS Community (Women In Computer Science)
 ### 📚 I worked on
 - [Exploring Biases in Academic Reviews through Data Analysis and Visualization](https://github.com/HathawayQAQ/Exploring-Biases-in-Academic-Reviews-through-Data-Analysis-and-Visualization), I did this based on RateMyProfessor and my COMP250!
