@@ -1,5 +1,5 @@
 ### Hi! / Bonjour! / 你好！ 👋
-### I'm looking for Summer 2024 Internship(Canada&China), plz feel free to contact me at: haohangyi516@gmail.com
+### I'm looking for Summer 2024 Internship(Canada&China), plz feel free to contact me at: hangyi.hao@mail.mcgill.ca
 
 <!--
 **HathawayQAQ/HathawayQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
