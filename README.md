@@ -1,4 +1,4 @@
-### Hi!/Bonjour!/你好！ 👋
+### Hi! / Bonjour! / 你好！ 👋
 ### I'm looking for Summer 2024 Internship(Canada&China), plz feel free to contact me at: haohangyi516@gmail.com
 
 <!--
