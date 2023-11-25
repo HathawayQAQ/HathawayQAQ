@@ -17,7 +17,7 @@
 ### 🌱 I’m currently learning
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
 ### 📫 Contact Me
--  Email: haohangyi516@gmail.com
+-  Email: hangyi.hao@mail.mcgill.ca
 - [Portfolio](http://hangyihao.me:32045/) | [LinkedIn](https://www.linkedin.com/in/hangyihao/)
 
 
