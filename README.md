@@ -6,6 +6,9 @@
 -->
 ### 🏫 My Education
 - Undergrad at McGill (CompSci + Statistics, '26)
+### 💼 My Work Experience
+- Software Development Engineer Intern @ Amazon, Vancouver, Canada
+- Technical Analyst @ [HiOTTO AI](https://www.hiotto.ai/), Montreal, Canada
 ### 🎓 My Positions & Experience
 - Director of Academic Affairs at [McGill IEEE](https://ieeemcgill.com/)
 - Research Assistant at MIT on ML image recognition which can distinguish cats and dogs!
@@ -20,5 +23,3 @@
 ### 📫 Contact Me
 -  Email: hangyi.hao@mail.mcgill.ca
 - [Portfolio](http://hangyihao.me:32045/) | [LinkedIn](https://www.linkedin.com/in/hangyihao/)
-
-
