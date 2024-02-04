@@ -15,6 +15,6 @@
 ### 🌱 I’m currently learning
 - [Leetcode75](https://leetcode.com/studyplan/leetcode-75/)
 - [AWS](https://github.com/aws/aws-cli), because our IEEE is preparing to host an AWS workshop! Everyone is welcome to come and learn!
-### 📫 Contact Me
+### 📫 How to reach me
 -  Email: hangyi.hao@mail.mcgill.ca
 - [Portfolio](http://hangyihao.me:32045/) | [LinkedIn](https://www.linkedin.com/in/hangyihao/)
