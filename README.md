@@ -6,7 +6,7 @@
 ### 🏫 My Education
 - Undergrad at McGill (CompSci + Statistics, '26)
 ### 💼 My Work Experience
-- Software Development Engineer Intern @ Amazon, Vancouver, Canada, Summer24
+- Software Development Engineer Intern @ **Amazon**, Vancouver, Canada, Summer24
 - Technical Analyst @ [HiOTTO AI](https://www.hiotto.ai/), Montreal, Canada
 ### 🎓 My Positions & Experience
 - Director of Academic Affairs at [McGill IEEE](https://ieeemcgill.com/)
