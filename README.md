@@ -8,6 +8,7 @@
 - Undergrad at McGill (CompSci + Statistics, '26)
   
 ### 💼 My Work Experience
+- Software Development Engineer Intern @ **Microsoft**, Vancouver, Canada, Summer25
 - Software Development Engineer Intern @ **Amazon**, Vancouver, Canada, Summer24
 - Technical Analyst @ [HiOTTO AI](https://www.hiotto.ai/), Montreal, Canada
   
