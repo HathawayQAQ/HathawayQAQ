@@ -12,11 +12,6 @@
 - Software Development Engineer Intern @ **Amazon**, Vancouver, Canada, Summer24
 - Technical Analyst @ [HiOTTO AI](https://www.hiotto.ai/), Montreal, Canada
   
-### 🎓 My Positions & Experience
-- Director of Academic Affairs at [McGill IEEE](https://ieeemcgill.com/)
-- Research Assistant at MIT on ML image recognition which can distinguish cats and dogs!
-- McWiCS Community (Women In Computer Science Community)
-  
 ### ⚒️ Frameworks, Languages and Tools
 <br/>
 <div align="center">
@@ -41,4 +36,4 @@
 </div>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=HathawayQAQ&icon=6&color=6)](https://visitcount.itsvg.in)
+Starts on Dec 1st, 2024: [![](https://visitcount.itsvg.in/api?id=HathawayQAQ&icon=6&color=6)](https://visitcount.itsvg.in)
