@@ -35,5 +35,3 @@
   </a>
 </div>
 <br/>
-
-Starts on Dec 1st, 2024: [![](https://visitcount.itsvg.in/api?id=HathawayQAQ&icon=6&color=6)](https://visitcount.itsvg.in)
