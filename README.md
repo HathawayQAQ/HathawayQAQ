@@ -5,7 +5,7 @@
 -->
 
 ### 🏫 My Education
-- Undergrad at McGill (CompSci + Statistics, '26)
+- Undergrad at McGill (CompSci + Statistics, '25)
   
 ### 💼 My Work Experience
 - Software Development Engineer Intern @ **Microsoft**, Vancouver, Canada, Summer25
